@@ -55,6 +55,7 @@ Handling edge cases such as undo at the start of the game
 Maintaining modular code without using standard library containers
 
 Snippet of the Code for the Project:
-<img width="1241" height="574" alt="image" src="https://github.com/user-attachments/assets/eb3035dc-02f5-406a-af53-0f6b134c994d" />
+<img width="1241" height="574" alt="image" src="https://github.com/user-attachments/assets/eb3035dc-02f5-406a-af53-0f6b134c994d" />|
+
 
 
